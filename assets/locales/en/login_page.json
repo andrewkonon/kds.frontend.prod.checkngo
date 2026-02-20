@@ -1,0 +1,20 @@
+{
+    "Email Address": "Email Address",
+    "Email is invalid.": "Email is invalid.",
+    "Email is required.": "Email is required.",
+    "For biometric authentication": "For biometric authentication",
+    "Log in": "Log in",
+    "Login failed": "Login failed",
+    "Login failed. Please try again.": "Login failed. Please try again.",
+    "Login from another account, which has access to the dashboard": "Login from another account, which has access to the dashboard",
+    "Login from another account, which has access to any restaurant": "Login from another account, which has access to any restaurant",
+    "Password": "Password",
+    "Password is required.": "Password is required.",
+    "Password must be at least 6 characters.": "Password must be at least 6 characters.",
+    "Please try again": "Please try again",
+    "Sign In": "Sign In",
+    "Sign in to your account to access the dashboard": "Sign in to your account to access the dashboard",
+    "User does not have access to the dashboard": "User does not have access to the dashboard",
+    "Welcome Back": "Welcome Back",
+    "User does not have access to any restaurant": "User does not have access to any restaurant"
+}

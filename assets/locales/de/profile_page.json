@@ -1,0 +1,23 @@
+{
+	"About": "Über",
+	"Add phone": "Telefon hinzufügen",
+	"Back": "Zurück",
+	"Change password": "Passwort ändern",
+	"Change password failed": "Passwortänderung fehlgeschlagen",
+	"Fill in only empty fields with translation": "Füllen Sie nur leere Felder mit Übersetzung aus",
+	"Have your old password handy": "Haben Sie Ihr altes Passwort zur Hand",
+	"New password": "Neues Passwort",
+	"New password is required.": "Ein neues Passwort ist erforderlich.",
+	"Old password": "Altes Passwort",
+	"Old password is required.": "Das alte Passwort ist erforderlich.",
+	"Password changed successfully": "Passwort erfolgreich geändert",
+	"Password must be at least 6 characters.": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+	"Passwords do not match.": "Die Passwörter stimmen nicht überein.",
+	"Repeat new password": "Neues Passwort wiederholen",
+	"Repeat password is required.": "Passwortwiederholung ist erforderlich.",
+	"Save changes": "Änderungen speichern",
+	"Translate to all languages": "In alle Sprachen übersetzen",
+	"'Thanks for the tips' message": "'Danke für die Tipps' Nachricht",
+	"Write 'thanks for the tips' message": "Schreibe 'Danke für die Tipps' Nachricht",
+	"Write about": "Schreiben über"
+}

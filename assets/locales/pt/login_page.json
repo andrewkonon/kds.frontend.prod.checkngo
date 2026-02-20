@@ -1,0 +1,20 @@
+{
+    "Email Address": "Endereço de e-mail",
+    "Email is invalid.": "O e-mail é inválido.",
+    "Email is required.": "O e-mail é obrigatório.",
+    "For biometric authentication": "Para autenticação biométrica",
+    "Log in": "Entrar",
+    "Login failed": "Falha no login",
+    "Login failed. Please try again.": "Falha no login. Por favor, tente novamente.",
+    "Login from another account, which has access to the dashboard": "Faça login com outra conta que tenha acesso ao painel",
+    "Login from another account, which has access to any restaurant": "Faça login com outra conta que tenha acesso a qualquer restaurante",
+    "Password": "Senha",
+    "Password is required.": "A senha é obrigatória.",
+    "Password must be at least 6 characters.": "A senha deve ter pelo menos 6 caracteres.",
+    "Please try again": "Por favor, tente novamente",
+    "Sign In": "Entrar",
+    "Sign in to your account to access the dashboard": "Faça login na sua conta para acessar o painel",
+    "User does not have access to the dashboard": "O usuário não tem acesso ao painel",
+    "Welcome Back": "Bem-vindo de volta",
+    "User does not have access to any restaurant": "O usuário não tem acesso a nenhum restaurante"
+}

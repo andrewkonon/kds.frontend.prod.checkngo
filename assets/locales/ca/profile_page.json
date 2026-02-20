@@ -1,0 +1,23 @@
+{
+	"About": "Sobre",
+	"Add phone": "Afegir telèfon",
+	"Back": "Enrere",
+	"Change password": "Canviar contrasenya",
+	"Change password failed": "Error en canviar la contrasenya",
+	"Fill in only empty fields with translation": "Omple només els camps buits amb la traducció",
+	"Have your old password handy": "Tingues a mà la teva antiga contrasenya",
+	"New password": "Nova contrasenya",
+	"New password is required.": "Es requereix una nova contrasenya.",
+	"Old password": "Contrasenya antiga",
+	"Old password is required.": "Es requereix la contrasenya antiga.",
+	"Password changed successfully": "Contrasenya canviada amb èxit",
+	"Password must be at least 6 characters.": "La contrasenya ha de tenir almenys 6 caràcters.",
+	"Passwords do not match.": "Les contrasenyes no coincideixen.",
+	"Repeat new password": "Repeteix la nova contrasenya",
+	"Repeat password is required.": "Es requereix repetir la contrasenya.",
+	"Save changes": "Desa els canvis",
+	"Translate to all languages": "Tradueix a tots els idiomes",
+	"'Thanks for the tips' message": "Missatge 'Gràcies pels consells'",
+	"Write 'thanks for the tips' message": "Escriu el missatge 'Gràcies pels consells'",
+	"Write about": "Escriu sobre"
+}

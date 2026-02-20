@@ -1,0 +1,20 @@
+{
+	"Email Address": "Адрес электронной почты",
+	"Email is invalid.": "Электронная почта недействительна.",
+	"Email is required.": "Электронная почта обязательна.",
+	"For biometric authentication": "Для биометрической аутентификации",
+    "Log in": "Войти",
+	"Login failed": "Ошибка входа",
+	"Login failed. Please try again.": "Ошибка входа. Пожалуйста, попробуйте снова.",
+	"Login from another account, which has access to the dashboard": "Войдите с другой учетной записи, у которой есть доступ к панели управления",
+	"Login from another account, which has access to any restaurant": "Войдите с другой учетной записи, у которой есть доступ к любому ресторану",
+    "Password": "Пароль",
+	"Password is required.": "Пароль обязателен.",
+	"Password must be at least 6 characters.": "Пароль должен содержать не менее 6 символов.",
+	"Please try again": "Пожалуйста, попробуйте снова",
+	"Sign In": "Войти",
+	"Sign in to your account to access the dashboard": "Войдите в свою учетную запись, чтобы получить доступ к панели управления",
+	"User does not have access to the dashboard": "Пользователь не имеет доступа к панели управления",
+	"Welcome Back": "Добро пожаловать",
+    "User does not have access to any restaurant": "Пользователь не имеет доступа к какому-либо ресторану"
+}

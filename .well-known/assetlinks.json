@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "pro.checkngo.kds.mobile",
+            "sha256_cert_fingerprints": [
+                "5E:4E:5A:CC:4C:A7:8A:C3:A8:22:9A:26:C4:36:E0:2C:85:3C:FD:AA:D8:68:4B:B2:33:52:57:D5:26:2E:6C:9A",
+                "3E:8A:A5:1B:F8:6F:4A:47:C9:1D:CB:70:5D:E3:F6:8E:5B:6A:9A:5A:B8:9C:4F:44:D6:97:F5:7D:85:BA:73:1E"
+            ]
+        }
+    }
+]
