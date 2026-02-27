@@ -1,1 +1,27 @@
-{}
+{
+  "Cancel": "Cancel",
+  "New": "New",
+  "Cooking": "Cooking",
+  "Ready": "Ready",
+  "Re-cook": "Re-cook",
+  "cards": "cards",
+  "No cards": "No cards",
+  "Order_ID": "Order_ID",
+  "Cook": "Cook",
+  "Cook is required": "Cook is required",
+  "No cooks available": "No cooks available",
+  "Options": "Options",
+  "State time": "State time",
+  "Since new": "Since new",
+  "Cancel reason": "Cancel reason",
+  "Out of stock": "Out of stock",
+  "Requested by client": "Requested by client",
+  "Requested by waiter": "Requested by waiter",
+  "Expired": "Expired",
+  "Other": "Other",
+  "Cancel reason is required": "Cancel reason is required",
+  "Unable to update cooking state": "Unable to update cooking state",
+  "Unable to fetch board data": "Unable to fetch board data",
+  "Error": "Error",
+  "Loading": "Loading"
+}
